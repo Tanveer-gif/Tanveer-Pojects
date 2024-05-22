@@ -34,7 +34,7 @@ function About()
                 </div>
                 <div className="container-lg border text-dark" style={Box2}>
                     <h3>Those who contributed to the project</h3>
-                    <p>Yashwant Tilak Akuthota</p>
+                    <p>Tanveer Fatima</p>
                 </div>
             <Footer / >
         </div>
